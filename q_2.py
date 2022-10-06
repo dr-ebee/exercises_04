@@ -12,5 +12,5 @@ def calculate_overtime(pay_rate, n_hours):
     # REPLACE THIS WITH YOUR CODE:
     pass
 
-print(calculate_overtime(10, 42)) # This should be 440
+print(calculate_overtime(10, 42)) # This should be 40*10 + 2*15 = 400 + 30 = 430
 # WRITE SOME MORE TESTS
