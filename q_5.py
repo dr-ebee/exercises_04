@@ -12,6 +12,7 @@
 #     distance = sqrt( x^2 + y^2 )
 
 def is_in_circle(x, y):
+    """WRITE DOC STRING"""
     radius = 100
 
 print(is_in_circle(90, 90)) # Should be False

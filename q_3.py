@@ -11,6 +11,7 @@
 # are not leap years, but the years 1600 and 2000 are.
 
 def check_leap_year(year):
+    """WRITE DOC STRING"""
     # REPLACE THIS WITH YOUR CODE:
     pass
 
